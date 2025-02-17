@@ -79,5 +79,7 @@ Las fuentes fueron elegidas para mantener la coherencia visual con los valores d
 
 En resumen, los colores, el logo y las fuentes han sido cuidadosamente seleccionados para crear una experiencia visual que refleje la misión de **EvolucionaX**: ser una empresa dinámica, confiable e innovadora, lista para ayudar a las marcas a evolucionar y crecer en el mundo digital.
 
+Para obtener más detalles sobre el diseño visual, los wireframes y los componentes utilizados en este proyecto, puedes acceder al sistema de diseño completo en Figma. Allí encontrarás todos los elementos gráficos, las paletas de colores, los componentes y las interacciones que hemos diseñado para este proyecto.
 
+Accede al [Sistema de Diseño en Figma](https://www.figma.com/design/AiOuO7rcsDgk0U0Ae2N05d/EvolucionaX?node-id=51-87&t=Npq53P5rzmFUeZ8k-1) para explorar los detalles visuales y los componentes que forman parte de la interfaz de usuario de EvolucionaX.
 
