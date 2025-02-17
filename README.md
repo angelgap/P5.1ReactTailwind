@@ -1,6 +1,6 @@
 # Biblioteca de Componentes en React
 
-Este proyecto es una aplicación simple de React que demuestra el uso de componentes reutilizables como `Header`, `Footer`, `Button`, `Input` y `Card` dentro de un diseño. La aplicación utiliza TailwindCSS para el estilizado y tiene como objetivo proporcionar una estructura de interfaz de usuario (UI) responsiva, mientras muestra la composición básica de componentes en React.
+Este proyecto, realizado por `Miguel Ipiña` y `Angel García-Page`, es una aplicación simple de React que demuestra el uso de componentes reutilizables como `Header`, `Footer`, `Button`, `Input` y `Card` dentro de un diseño. La aplicación utiliza TailwindCSS para el estilizado y tiene como objetivo proporcionar una estructura de interfaz de usuario (UI) responsiva, mientras muestra la composición básica de componentes en React.
 
 ## Tabla de Contenidos
 
